@@ -36,4 +36,15 @@
 | staticmethod | mozdíthatatlan módszer |
 | graylog | szürke rönk |
 | datadog | adatkutya |
-
+| webhook | hálóakasztó |
+| caching | kincstárolás |
+| data lake | adattó |
+| debugging | bogarazás |
+| sandbox | homokozó |
+| scope creep | hatókör kúszás |
+| low-code | alacsony kód |
+| pull request | húzó kérelem |
+| binary tree | kettes fa |
+| Scrum | Lökdösődés |
+| Hashtag | Számjel |
+| Unit testing | Egység próbálgatás |

@@ -48,3 +48,18 @@
 | Scrum | Lökdösődés |
 | Hashtag | Számjel |
 | Unit testing | Egység próbálgatás |
+| Bugfix | Bogárrögzítés |
+| Product Owner | Terméktulajdonos |
+| Frontend | Elülsővég |
+| Backend | Hátsóvég |
+| Angular | Szögletes |
+| React | Reagál |
+| Meteor.js | Mennykő.js |
+| Svelte | Karcsú |
+| Vue.js | Vau.js |
+| Nest.js | Fészek.js |
+| Webpack | Hálóbatyu |
+| Rollup.js | Felteker.js |
+
+
+

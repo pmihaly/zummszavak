@@ -23,14 +23,16 @@
 | 2 week sprint | kéthetes roham |
 | kickoff meeting | lerúgás találkozó |
 | Google Meets | Google találkozik |
-| markdown file | lejegyő akta |
+| markdown file | lejegyző akta |
 | join with companion mode | Választott képviselő útján vesz részt |
 | nested dict comprehenstion | fészkezett szótár felfogás |
-| amazon web services | Amazonasz hálózati szolgáltatások |
+| Amazon Web Services | Amazonasz hálózati szolgáltatások |
+| Google Cloud Platform | Google Felhő Peron |
+| Microsoft Azure | Kicsiszoftver Égszínkék |
 | KPI | Kulcs teljesítmény mutató |
 | merge conflict|összeboronálás összeférhetetlenség |
 | cherry pick | kimagozás |
-| rebase|Újraalapozás |
+| rebase | Újraalapozás |
 | abstract class | elvont osztály |
 | abstractmethod | elvont módszer |
 | staticmethod | mozdíthatatlan módszer |
@@ -60,6 +62,13 @@
 | Nest.js | Fészek.js |
 | Webpack | Hálóbatyu |
 | Rollup.js | Felteker.js |
-
-
+| Node.js | Csomópont.js |
+| Node Package Manager | Csomópont küldemény igazgató |
+| Big Data | Nagy Adat |
+| Cross-platform | Platformközi |
+| Crowdsourcing | Tömegbeszerzés |
+| Post-mortem | Boncolás |
+| Distributed Denial of Service | Elosztott Szolgáltatásmegtagadás |
+| Ransomware | Váltságdíj vírus |
+| DevOps | Fejlesztői műveletek |
 

@@ -71,7 +71,7 @@
 | Distributed Denial of Service | Elosztott Szolgáltatásmegtagadás |
 | Ransomware | Váltságdíj vírus |
 | DevOps | Fejlesztői műveletek, FejlMűv |
-| Peer-To-Peer | Társtól társig |
+| Peer-To-Peer | Társtól-társig |
 | Bittorrent | Harapásáradat |
 | Shell | Kagyló |
 | Script | Forgatókönyv |

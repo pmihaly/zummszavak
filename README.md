@@ -70,5 +70,14 @@
 | Post-mortem | Boncolás |
 | Distributed Denial of Service | Elosztott Szolgáltatásmegtagadás |
 | Ransomware | Váltságdíj vírus |
-| DevOps | Fejlesztői műveletek |
+| DevOps | Fejlesztői műveletek, FejlMűv |
+| Peer-To-Peer | Társtól társig |
+| Bittorrent | Harapásáradat |
+| Shell | Kagyló |
+| Script | Forgatókönyv |
+| Microservice | Aprószervíz |
+| Architecture | Építészet |
+| Docker | Dokkoló |
+| Container | Tartály |
+| Log, Logging | Rönk, Rönközés |
 

@@ -61,6 +61,7 @@
 | Vue.js | Vau.js |
 | Nest.js | Fészek.js |
 | Webpack | Hálóbatyu |
+| Webkit | Háló előrecsomagolt készlet |
 | Rollup.js | Felteker.js |
 | Node.js | Csomópont.js |
 | Node Package Manager | Csomópont küldemény igazgató |
@@ -71,4 +72,7 @@
 | Distributed Denial of Service | Elosztott Szolgáltatásmegtagadás |
 | Ransomware | Váltságdíj vírus |
 | DevOps | Fejlesztői műveletek |
+| Dashboard | Műszerfal |
+| Placeholder | Helytartó |
+| Threshold | Küszöb |
 

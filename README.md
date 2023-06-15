@@ -84,3 +84,9 @@
 | Docker | Dokkoló |
 | Container | Tartály |
 | Log, Logging | Rönk, Rönközés |
+| CloudFormation | FelhőKialakulás |
+| AWS CDK | AHSz FFK (Amazonasz Hálózati Szolgáltatások Felhő Fejlesztői Készet) |
+| CloudWatch | FelhőFigyelő |
+| Elastic Compute Cloud | Amazonasz Rugalmas Számító Felhő |
+| SageMaker | BölcsCsináló |
+

@@ -89,4 +89,5 @@
 | CloudWatch | FelhőFigyelő |
 | Elastic Compute Cloud | Amazonasz Rugalmas Számító Felhő |
 | SageMaker | BölcsCsináló |
+| Bottleneck | Palacknyak |
 

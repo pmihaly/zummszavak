@@ -91,4 +91,5 @@
 | SageMaker | BölcsCsináló |
 | Bottleneck | Palacknyak |
 | State Memory | Állam Emlékezet |
+| Boilerplate | Kazánlap |
 

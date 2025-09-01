@@ -93,3 +93,4 @@
 | State Memory | Állam Emlékezet |
 | Boilerplate | Kazánlap |
 | Mocking | Gúnyolódás |
+| Stakeholder | Téttartó |

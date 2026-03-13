@@ -94,3 +94,4 @@
 | Boilerplate | Kazánlap |
 | Mocking | Gúnyolódás |
 | Stakeholder | Téttartó |
+| Workshop | Munkabolt |

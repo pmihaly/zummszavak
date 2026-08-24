@@ -95,3 +95,4 @@
 | Mocking | Gúnyolódás |
 | Stakeholder | Téttartó |
 | Workshop | Munkabolt |
+| Code review | Rejtjel újratekintés |
